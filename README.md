@@ -1,4 +1,4 @@
-<h1 align="center">Nazdar 👋, Jsem Atmaak</h1>
+<h1 align="center">Atmaak</h1>
 
 <p align="center" style="width: 100%"> <img src="https://komarev.com/ghpvc/?username=atmaak&label=Profile%20views&color=0e75b6&style=flat" alt="atmaak" /> </p></p>
 

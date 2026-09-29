@@ -19,9 +19,9 @@
 
 ### About me
 
-- 🎓 Applied Informatics graduate — University of Hradec Králové (2026)
+- 🎓 Applied Informatics graduate, University of Hradec Králové (2026)
 - ⚛️ Focused on the **React / Next.js / Node.js** stack, TypeScript-first
-- 🌐 Comfortable across the whole stack — from UI to REST APIs and databases
+- 🌐 Comfortable across the whole stack, from UI to REST APIs and databases
 - 📫 Reach me at **kubjak21@gmail.com**
 
 ---

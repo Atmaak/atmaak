@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Martin 👋</h1>
 
 <p align="center">
-  Full-stack web developer from Czechia — building web apps with
+  Full-stack web developer from Czechia, building web apps with
   <b>React</b>, <b>Next.js</b>, <b>Node.js</b> and <b>TypeScript</b>.
 </p>
 
